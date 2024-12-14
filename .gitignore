@@ -20,3 +20,7 @@ Orientação_objetos/obj/Orientação_objetos.csproj.nuget.g.props
 Orientação_objetos/obj/Orientação_objetos.csproj.nuget.g.targets
 Orientação_objetos/obj/Debug/net8.0/Orientação_objetos.GeneratedMSBuildEditorConfig.editorconfig
 Orientação_objetos/obj/Debug/net8.0/Orientação_objetos.csproj.BuildWithSkipAnalyzers
+*.v2
+*.vsidx
+.vs/Orientação_objetos/v17/.suo
+*.bin
