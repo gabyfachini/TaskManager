@@ -1,0 +1,16 @@
+
+*.dll
+*.v2
+*.vsidx
+.vs/Orientação_objetos/v17/.suo
+*.json
+*.bin
+*.exe
+*.pdb
+*.cs
+*.cache
+*.BuildWithSkipAnalyzers
+*.txt
+*.editorconfig
+*.props
+*.targets
