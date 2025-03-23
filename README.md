@@ -17,4 +17,4 @@ O objetivo deste projeto é demonstrar os princípios fundamentais da programaç
 1. Clone o repositório:
 
    ```bash
-   git clone [https://github.com/seu-usuario/gerenciador-de-arquivos.git](https://github.com/gabyfachini/GerenciadorDeTarefas.git)
+   git clone https://github.com/gabyfachini/GerenciadorDeTarefas.git
