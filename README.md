@@ -85,7 +85,7 @@ git clone https://github.com/gabyfachini/TaskManager.git
 
 2. Open the project in Visual Studio or Visual Studio Code.
 
-3.  dependencies (if needed) and build the project.
+3. Restore dependencies (if needed) and build the project.
 
 4. Run the application.
    A menu will appear in the terminal, allowing you to:
