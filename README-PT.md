@@ -78,10 +78,9 @@ Este projeto tem como objetivo te ajudar a:
 ---
 
 ## 💻 Como Executar
-
-1. **Clone este repositório:**
-
 ```bash
+1. Clone este repositório:
+
 git clone https://github.com/gabyfachini/TaskManager.git
 
 2. Abra o projeto no Visual Studio ou Visual Studio Code.
