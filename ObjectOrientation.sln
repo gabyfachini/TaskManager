@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orientação_objetos", "Orientação_objetos\Orientação_objetos.csproj", "{95A9E4B4-F8E8-4A47-A1E2-5F58F0432616}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectOrientation", "ObjectOrientation\ObjectOrientation.csproj", "{95A9E4B4-F8E8-4A47-A1E2-5F58F0432616}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
